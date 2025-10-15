@@ -1,8 +1,8 @@
-requests
-beautifulsoup4
-tqdm
-psutil
-cryptography
-dnspython
-colorama
-pyfiglet
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+tqdm>=4.66.5
+psutil>=6.0.0
+cryptography>=43.0.1
+dnspython>=2.6.1
+colorama>=0.4.6
+pyfiglet>=1.0.2
